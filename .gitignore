@@ -1,0 +1,22 @@
+# PowerShell logs
+*.log
+bruteforce_log.txt
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# PowerShell history
+PSReadLine/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
